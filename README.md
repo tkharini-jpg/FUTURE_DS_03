@@ -95,5 +95,5 @@ By combining survey analysis with NLP-based sentiment analysis, the project demo
 Harini Tk
 Data Science & Analytics Intern – Future Interns
 
-Linkedin:
+Linkedin: https://www.linkedin.com/posts/harini-t-k-a28289367_datascience-analytics-internship-activity-7409469495821574144-PwUR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFr80oABbdhnn9yz4_4LyRKHyRanQzrm5JM
 
