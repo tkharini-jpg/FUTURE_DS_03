@@ -80,6 +80,11 @@ Bar chart of average ratings
 
 Histogram of course recommendation scores
 
+Correlation heatmap
+
+
+Sentiment distribution chart
+
 🎯 Conclusion
 
 This analysis provides actionable insights into student satisfaction and learning effectiveness.
@@ -92,6 +97,3 @@ Data Science & Analytics Intern – Future Interns
 
 Linkedin:
 
-Correlation heatmap
-
-Sentiment distribution chart
